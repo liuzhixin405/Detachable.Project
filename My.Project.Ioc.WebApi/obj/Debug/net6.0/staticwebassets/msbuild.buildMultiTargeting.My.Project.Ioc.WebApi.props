@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\My.Project.Ioc.WebApi.props" />
+</Project>

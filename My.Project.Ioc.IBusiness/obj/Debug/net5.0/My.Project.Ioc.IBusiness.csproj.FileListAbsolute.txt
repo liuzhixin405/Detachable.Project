@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.IBusiness\bin\Debug\net5.0\My.Project.Ioc.IBusiness.deps.json
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.IBusiness\bin\Debug\net5.0\My.Project.Ioc.IBusiness.dll
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.IBusiness\bin\Debug\net5.0\ref\My.Project.Ioc.IBusiness.dll
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.IBusiness\bin\Debug\net5.0\My.Project.Ioc.IBusiness.pdb
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.IBusiness\obj\Debug\net5.0\My.Project.Ioc.IBusiness.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.IBusiness\obj\Debug\net5.0\My.Project.Ioc.IBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.IBusiness\obj\Debug\net5.0\My.Project.Ioc.IBusiness.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.IBusiness\obj\Debug\net5.0\My.Project.Ioc.IBusiness.AssemblyInfo.cs
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.IBusiness\obj\Debug\net5.0\My.Project.Ioc.IBusiness.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.IBusiness\obj\Debug\net5.0\My.Project.Ioc.IBusiness.dll
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.IBusiness\obj\Debug\net5.0\ref\My.Project.Ioc.IBusiness.dll
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.IBusiness\obj\Debug\net5.0\My.Project.Ioc.IBusiness.pdb

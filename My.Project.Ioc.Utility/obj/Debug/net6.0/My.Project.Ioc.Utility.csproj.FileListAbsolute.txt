@@ -1,0 +1,12 @@
+D:\GitHub\My.Project.Ioc\Ioc\My.Project.Ioc.Utility\bin\Debug\net6.0\My.Project.Ioc.Utility.deps.json
+D:\GitHub\My.Project.Ioc\Ioc\My.Project.Ioc.Utility\bin\Debug\net6.0\My.Project.Ioc.Utility.dll
+D:\GitHub\My.Project.Ioc\Ioc\My.Project.Ioc.Utility\bin\Debug\net6.0\My.Project.Ioc.Utility.pdb
+D:\GitHub\My.Project.Ioc\Ioc\My.Project.Ioc.Utility\obj\Debug\net6.0\My.Project.Ioc.Utility.csproj.AssemblyReference.cache
+D:\GitHub\My.Project.Ioc\Ioc\My.Project.Ioc.Utility\obj\Debug\net6.0\My.Project.Ioc.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\My.Project.Ioc\Ioc\My.Project.Ioc.Utility\obj\Debug\net6.0\My.Project.Ioc.Utility.AssemblyInfoInputs.cache
+D:\GitHub\My.Project.Ioc\Ioc\My.Project.Ioc.Utility\obj\Debug\net6.0\My.Project.Ioc.Utility.AssemblyInfo.cs
+D:\GitHub\My.Project.Ioc\Ioc\My.Project.Ioc.Utility\obj\Debug\net6.0\My.Project.Ioc.Utility.csproj.CoreCompileInputs.cache
+D:\GitHub\My.Project.Ioc\Ioc\My.Project.Ioc.Utility\obj\Debug\net6.0\My.Project.Ioc.Utility.dll
+D:\GitHub\My.Project.Ioc\Ioc\My.Project.Ioc.Utility\obj\Debug\net6.0\refint\My.Project.Ioc.Utility.dll
+D:\GitHub\My.Project.Ioc\Ioc\My.Project.Ioc.Utility\obj\Debug\net6.0\My.Project.Ioc.Utility.pdb
+D:\GitHub\My.Project.Ioc\Ioc\My.Project.Ioc.Utility\obj\Debug\net6.0\ref\My.Project.Ioc.Utility.dll

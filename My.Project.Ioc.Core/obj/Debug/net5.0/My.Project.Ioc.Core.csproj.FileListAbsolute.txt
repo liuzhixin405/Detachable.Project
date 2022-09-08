@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.Core\bin\Debug\net5.0\My.Project.Ioc.Core.deps.json
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.Core\bin\Debug\net5.0\My.Project.Ioc.Core.dll
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.Core\bin\Debug\net5.0\ref\My.Project.Ioc.Core.dll
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.Core\bin\Debug\net5.0\My.Project.Ioc.Core.pdb
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.Core\obj\Debug\net5.0\My.Project.Ioc.Core.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.Core\obj\Debug\net5.0\My.Project.Ioc.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.Core\obj\Debug\net5.0\My.Project.Ioc.Core.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.Core\obj\Debug\net5.0\My.Project.Ioc.Core.AssemblyInfo.cs
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.Core\obj\Debug\net5.0\My.Project.Ioc.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.Core\obj\Debug\net5.0\My.Project.Ioc.Core.dll
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.Core\obj\Debug\net5.0\ref\My.Project.Ioc.Core.dll
+C:\Users\admin\source\repos\My.Project.Ioc\My.Project.Ioc.Core\obj\Debug\net5.0\My.Project.Ioc.Core.pdb
