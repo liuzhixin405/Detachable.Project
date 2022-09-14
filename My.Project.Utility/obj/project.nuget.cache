@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sDc62nMKuhthVOWJcCZ2Mlpi/aY4Zt74QNkITQ1Q6/RKNfrnV9ZtCeoJoRDn8OkVvjZXG/f4e1hSrzotX3c/EA==",
+  "dgSpecHash": "9t3z6zQ2Ma3CX2AC3comLiQd4FNOKWBVdXgR81YD+oPVk47RXyxMn4klKiqeikwHfSuzZojTKoHYFFjx/yrVJw==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Utility\\My.Project.Utility.csproj",
+  "projectFilePath": "D:\\GitHub\\My.Project\\My.Project.Utility\\My.Project.Utility.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

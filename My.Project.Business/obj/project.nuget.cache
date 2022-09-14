@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M8W3DOel8KxHZQPqx+fcVwgBFsvFg8ndAXZimjQhfxSZ7kAks8Uomo+CkE4PqVluoJj+Hd9/+ke8hGjiXkZopQ==",
+  "dgSpecHash": "L3BuQDj2jQFrMfsY5X6i8jmbEJKHTfBbN/tR3DCbtTM3YCE41eACj/1rf4/ghcP29wu3/akDls3gBPjyFBiKMQ==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Business\\My.Project.Business.csproj",
+  "projectFilePath": "D:\\GitHub\\My.Project\\My.Project.Business\\My.Project.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\castle.core.asyncinterceptor\\2.1.0\\castle.core.asyncinterceptor.2.1.0.nupkg.sha512",

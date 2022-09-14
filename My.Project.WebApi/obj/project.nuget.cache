@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nBVwIEa/KkUH7NgcVfy5419oeKVIGBgP9sp/aotTYXcE1mSRJFCpOiD+ZmwJsVJwzYCW+ir3TY38vXCJTp5lrA==",
+  "dgSpecHash": "X91rF7U6c/EtW3Z8wK1B1ZFIXPn7AgE8r8ruEUI6YfawTzzq6p0hu+F+Tk88NPnq3qUI0vPRCdbOLf7HopDelg==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.WebApi\\My.Project.WebApi.csproj",
+  "projectFilePath": "D:\\GitHub\\My.Project\\My.Project.WebApi\\My.Project.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\castle.core.asyncinterceptor\\2.1.0\\castle.core.asyncinterceptor.2.1.0.nupkg.sha512",

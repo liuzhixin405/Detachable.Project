@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/br1G5HErEQe8rzQhg3DWWcLl7d5cXeQnMy2etW/r3BY9ZG/AH7MbK06dFq9/NRxrk4SKV79vOT/ZeumxXHSDg==",
+  "dgSpecHash": "rJGytsPlmKG7sw5YY6aSSkQeSl9I0jvndoOlTvYzeyEyPutsLY7MpZ+hKvYOMZl6Ss2lK8QhAxPy2P9wHFgl5g==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.IBusiness\\My.Project.IBusiness.csproj",
+  "projectFilePath": "D:\\GitHub\\My.Project\\My.Project.IBusiness\\My.Project.IBusiness.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.6\\microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.6\\microsoft.windowsdesktop.app.ref.6.0.6.nupkg.sha512",

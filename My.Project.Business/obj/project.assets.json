@@ -8,10 +8,14 @@
           "System.Diagnostics.EventLog": "6.0.0"
         },
         "compile": {
-          "lib/net6.0/Castle.Core.dll": {}
+          "lib/net6.0/Castle.Core.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Castle.Core.dll": {}
+          "lib/net6.0/Castle.Core.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Castle.Core.AsyncInterceptor/2.1.0": {
@@ -20,28 +24,40 @@
           "Castle.Core": "4.4.0"
         },
         "compile": {
-          "lib/net6.0/Castle.Core.AsyncInterceptor.dll": {}
+          "lib/net6.0/Castle.Core.AsyncInterceptor.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Castle.Core.AsyncInterceptor.dll": {}
+          "lib/net6.0/Castle.Core.AsyncInterceptor.dll": {
+            "related": ".xml"
+          }
         }
       },
       "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         }
       },
       "System.Diagnostics.EventLog/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/net6.0/System.Diagnostics.EventLog.dll": {}
+          "lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/System.Diagnostics.EventLog.dll": {}
+          "lib/net6.0/System.Diagnostics.EventLog.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -182,13 +198,13 @@
     },
     "My.Project.Core/1.0.0": {
       "type": "project",
-      "path": "../My.Project.Ioc.Core/My.Project.Core.csproj",
-      "msbuildProject": "../My.Project.Ioc.Core/My.Project.Core.csproj"
+      "path": "../My.Project.Core/My.Project.Core.csproj",
+      "msbuildProject": "../My.Project.Core/My.Project.Core.csproj"
     },
     "My.Project.IBusiness/1.0.0": {
       "type": "project",
-      "path": "../My.Project.Ioc.IBusiness/My.Project.IBusiness.csproj",
-      "msbuildProject": "../My.Project.Ioc.IBusiness/My.Project.IBusiness.csproj"
+      "path": "../My.Project.IBusiness/My.Project.IBusiness.csproj",
+      "msbuildProject": "../My.Project.IBusiness/My.Project.IBusiness.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -203,11 +219,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Business\\My.Project.Business.csproj",
+      "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.Business\\My.Project.Business.csproj",
       "projectName": "My.Project.Business",
-      "projectPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Business\\My.Project.Business.csproj",
+      "projectPath": "D:\\GitHub\\My.Project\\My.Project.Business\\My.Project.Business.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Business\\obj\\",
+      "outputPath": "D:\\GitHub\\My.Project\\My.Project.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -224,11 +240,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Core\\My.Project.Core.csproj": {
-              "projectPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Core\\My.Project.Core.csproj"
+            "D:\\GitHub\\My.Project\\My.Project.Core\\My.Project.Core.csproj": {
+              "projectPath": "D:\\GitHub\\My.Project\\My.Project.Core\\My.Project.Core.csproj"
             },
-            "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.IBusiness\\My.Project.IBusiness.csproj": {
-              "projectPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.IBusiness\\My.Project.IBusiness.csproj"
+            "D:\\GitHub\\My.Project\\My.Project.IBusiness\\My.Project.IBusiness.csproj": {
+              "projectPath": "D:\\GitHub\\My.Project\\My.Project.IBusiness\\My.Project.IBusiness.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.WebApi\\My.Project.WebApi.csproj": {}
+    "D:\\GitHub\\My.Project\\My.Project.WebApi\\My.Project.WebApi.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Business\\My.Project.Business.csproj": {
+    "D:\\GitHub\\My.Project\\My.Project.Business\\My.Project.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Business\\My.Project.Business.csproj",
+        "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.Business\\My.Project.Business.csproj",
         "projectName": "My.Project.Business",
-        "projectPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Business\\My.Project.Business.csproj",
+        "projectPath": "D:\\GitHub\\My.Project\\My.Project.Business\\My.Project.Business.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Business\\obj\\",
+        "outputPath": "D:\\GitHub\\My.Project\\My.Project.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Core\\My.Project.Core.csproj": {
-                "projectPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Core\\My.Project.Core.csproj"
+              "D:\\GitHub\\My.Project\\My.Project.Core\\My.Project.Core.csproj": {
+                "projectPath": "D:\\GitHub\\My.Project\\My.Project.Core\\My.Project.Core.csproj"
               },
-              "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.IBusiness\\My.Project.IBusiness.csproj": {
-                "projectPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.IBusiness\\My.Project.IBusiness.csproj"
+              "D:\\GitHub\\My.Project\\My.Project.IBusiness\\My.Project.IBusiness.csproj": {
+                "projectPath": "D:\\GitHub\\My.Project\\My.Project.IBusiness\\My.Project.IBusiness.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Core\\My.Project.Core.csproj": {
+    "D:\\GitHub\\My.Project\\My.Project.Core\\My.Project.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Core\\My.Project.Core.csproj",
+        "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.Core\\My.Project.Core.csproj",
         "projectName": "My.Project.Core",
-        "projectPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Core\\My.Project.Core.csproj",
+        "projectPath": "D:\\GitHub\\My.Project\\My.Project.Core\\My.Project.Core.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Core\\obj\\",
+        "outputPath": "D:\\GitHub\\My.Project\\My.Project.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -163,14 +163,14 @@
         }
       }
     },
-    "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.IBusiness\\My.Project.IBusiness.csproj": {
+    "D:\\GitHub\\My.Project\\My.Project.IBusiness\\My.Project.IBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.IBusiness\\My.Project.IBusiness.csproj",
+        "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.IBusiness\\My.Project.IBusiness.csproj",
         "projectName": "My.Project.IBusiness",
-        "projectPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.IBusiness\\My.Project.IBusiness.csproj",
+        "projectPath": "D:\\GitHub\\My.Project\\My.Project.IBusiness\\My.Project.IBusiness.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.IBusiness\\obj\\",
+        "outputPath": "D:\\GitHub\\My.Project\\My.Project.IBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -232,187 +232,14 @@
         }
       }
     },
-    "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Utility\\My.Project.Utility.csproj": {
+    "D:\\GitHub\\My.Project\\My.Project.MessageBus\\My.Project.MessageBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Utility\\My.Project.Utility.csproj",
-        "projectName": "My.Project.Utility",
-        "projectPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Utility\\My.Project.Utility.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Utility\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "Quartz": {
-              "target": "Package",
-              "version": "[3.4.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.6, 6.0.6]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.6, 6.0.6]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.6, 6.0.6]"
-            }
-          ],
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.6.22352.1\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.WebApi\\My.Project.WebApi.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.WebApi\\My.Project.WebApi.csproj",
-        "projectName": "My.Project.WebApi",
-        "projectPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.WebApi\\My.Project.WebApi.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.WebApi\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Business\\My.Project.Business.csproj": {
-                "projectPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Business\\My.Project.Business.csproj"
-              },
-              "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Core\\My.Project.Core.csproj": {
-                "projectPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Core\\My.Project.Core.csproj"
-              },
-              "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.IBusiness\\My.Project.IBusiness.csproj": {
-                "projectPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.IBusiness\\My.Project.IBusiness.csproj"
-              },
-              "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Utility\\My.Project.Utility.csproj": {
-                "projectPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Utility\\My.Project.Utility.csproj"
-              },
-              "D:\\GitHub\\My.Project\\Ioc\\NC.MessageBus\\My.Project.MessageBus.csproj": {
-                "projectPath": "D:\\GitHub\\My.Project\\Ioc\\NC.MessageBus\\My.Project.MessageBus.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[5.6.3, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.6, 6.0.6]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.6, 6.0.6]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.6, 6.0.6]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.6, 6.0.6]"
-            }
-          ],
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.6.22352.1\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\GitHub\\My.Project\\Ioc\\NC.MessageBus\\My.Project.MessageBus.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\GitHub\\My.Project\\Ioc\\NC.MessageBus\\My.Project.MessageBus.csproj",
+        "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.MessageBus\\My.Project.MessageBus.csproj",
         "projectName": "My.Project.MessageBus",
-        "projectPath": "D:\\GitHub\\My.Project\\Ioc\\NC.MessageBus\\My.Project.MessageBus.csproj",
+        "projectPath": "D:\\GitHub\\My.Project\\My.Project.MessageBus\\My.Project.MessageBus.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\My.Project\\Ioc\\NC.MessageBus\\obj\\",
+        "outputPath": "D:\\GitHub\\My.Project\\My.Project.MessageBus\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -488,6 +315,179 @@
             }
           ],
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.6.22352.1\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHub\\My.Project\\My.Project.Utility\\My.Project.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.Utility\\My.Project.Utility.csproj",
+        "projectName": "My.Project.Utility",
+        "projectPath": "D:\\GitHub\\My.Project\\My.Project.Utility\\My.Project.Utility.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\My.Project\\My.Project.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.6, 6.0.6]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.6, 6.0.6]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.6, 6.0.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-preview.6.22352.1\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitHub\\My.Project\\My.Project.WebApi\\My.Project.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.WebApi\\My.Project.WebApi.csproj",
+        "projectName": "My.Project.WebApi",
+        "projectPath": "D:\\GitHub\\My.Project\\My.Project.WebApi\\My.Project.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub\\My.Project\\My.Project.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\GitHub\\My.Project\\My.Project.Business\\My.Project.Business.csproj": {
+                "projectPath": "D:\\GitHub\\My.Project\\My.Project.Business\\My.Project.Business.csproj"
+              },
+              "D:\\GitHub\\My.Project\\My.Project.Core\\My.Project.Core.csproj": {
+                "projectPath": "D:\\GitHub\\My.Project\\My.Project.Core\\My.Project.Core.csproj"
+              },
+              "D:\\GitHub\\My.Project\\My.Project.IBusiness\\My.Project.IBusiness.csproj": {
+                "projectPath": "D:\\GitHub\\My.Project\\My.Project.IBusiness\\My.Project.IBusiness.csproj"
+              },
+              "D:\\GitHub\\My.Project\\My.Project.MessageBus\\My.Project.MessageBus.csproj": {
+                "projectPath": "D:\\GitHub\\My.Project\\My.Project.MessageBus\\My.Project.MessageBus.csproj"
+              },
+              "D:\\GitHub\\My.Project\\My.Project.Utility\\My.Project.Utility.csproj": {
+                "projectPath": "D:\\GitHub\\My.Project\\My.Project.Utility\\My.Project.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.6, 6.0.6]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.6, 6.0.6]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.6, 6.0.6]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.6, 6.0.6]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

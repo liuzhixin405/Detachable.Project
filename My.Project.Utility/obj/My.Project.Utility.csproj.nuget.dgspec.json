@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Utility\\My.Project.Utility.csproj": {}
+    "D:\\GitHub\\My.Project\\My.Project.Utility\\My.Project.Utility.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Utility\\My.Project.Utility.csproj": {
+    "D:\\GitHub\\My.Project\\My.Project.Utility\\My.Project.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Utility\\My.Project.Utility.csproj",
+        "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.Utility\\My.Project.Utility.csproj",
         "projectName": "My.Project.Utility",
-        "projectPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Utility\\My.Project.Utility.csproj",
+        "projectPath": "D:\\GitHub\\My.Project\\My.Project.Utility\\My.Project.Utility.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\My.Project\\Ioc\\My.Project.Ioc.Utility\\obj\\",
+        "outputPath": "D:\\GitHub\\My.Project\\My.Project.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

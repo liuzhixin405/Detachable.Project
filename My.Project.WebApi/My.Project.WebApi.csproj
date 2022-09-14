@@ -10,11 +10,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\My.Project.Ioc.Business\My.Project.Business.csproj" />
-    <ProjectReference Include="..\My.Project.Ioc.Core\My.Project.Core.csproj" />
-    <ProjectReference Include="..\My.Project.Ioc.IBusiness\My.Project.IBusiness.csproj" />
-    <ProjectReference Include="..\My.Project.Ioc.Utility\My.Project.Utility.csproj" />
-    <ProjectReference Include="..\NC.MessageBus\My.Project.MessageBus.csproj" />
+    <ProjectReference Include="..\My.Project.Business\My.Project.Business.csproj" />
+    <ProjectReference Include="..\My.Project.Core\My.Project.Core.csproj" />
+    <ProjectReference Include="..\My.Project.IBusiness\My.Project.IBusiness.csproj" />
+    <ProjectReference Include="..\My.Project.Utility\My.Project.Utility.csproj" />
+    <ProjectReference Include="..\My.Project.MessageBus\My.Project.MessageBus.csproj" />
   </ItemGroup>
 
 </Project>

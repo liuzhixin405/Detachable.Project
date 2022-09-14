@@ -6,8 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\My.Project.Ioc.Core\My.Project.Core.csproj" />
-    <ProjectReference Include="..\My.Project.Ioc.IBusiness\My.Project.IBusiness.csproj" />
+    <ProjectReference Include="..\My.Project.Core\My.Project.Core.csproj" />
+    <ProjectReference Include="..\My.Project.IBusiness\My.Project.IBusiness.csproj" />
   </ItemGroup>
 
 </Project>
