@@ -4,6 +4,7 @@ using My.Project.Business;
 using My.Project.IBusiness;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace My.Project.WebApi.Controllers;
 [ApiController]
@@ -22,13 +23,14 @@ public class WeatherForecastController : ControllerBase
     }
 
     [HttpGet]
-    public string HelloWorld()
+    public async Task<string> HelloWorld()
     {
+       await RedisHelper.SetAsync("helloworld_key","helloworld");
         return _test.GetValue();
     }
     [HttpGet]
-    public string GetYeah()
+    public async Task<string> GetYeah()
     {
-        return _testNoInterface.Get();
+        return _testNoInterface.Get() + await RedisHelper.GetAsync("helloworld_key");
     }
 }

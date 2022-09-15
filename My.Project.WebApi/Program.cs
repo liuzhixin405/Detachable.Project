@@ -16,6 +16,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddFxServices();
+builder.Services.AddAutoMapper();
+builder.Host.UseDistributedLock();
+builder.Host.UseCache();
 builder.Services.AddHostedService<BackServices>();
 builder.Services.AddControllers();
 builder.Host.UseMessageBus(() => new List<IProducer>() { new Producer<Message<string>>("TopicTestName") }, () => new List<IConsumer>() { new Consumer<Message<string>, MessageBusTestHandler>("TopicTestName") });
