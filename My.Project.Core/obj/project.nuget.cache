@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Ml92jqvEX40rlKCN8MRE9qHWAD8/YCgzrRChZDRe2sPlJE7QYNkCzlSPtHF06SMUOnze0JbVK4+Vxi8fJOcZg==",
+  "dgSpecHash": "oDo09yzKWFIa8/ylNPlb0+MXybok7vHXlK+GodoJaXEqiur7kd0xUGWjmJg1PYTZQCIWl3QlVjK530n0gSRA6w==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\My.Project\\My.Project.Core\\My.Project.Core.csproj",
+  "projectFilePath": "D:\\GitHub\\My.Project\\My.Project.Core\\Detachable.Project.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\caching.csredis\\3.8.669\\caching.csredis.3.8.669.nupkg.sha512",
@@ -39,8 +39,8 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.6\\microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.6\\microsoft.windowsdesktop.app.ref.6.0.6.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.6\\microsoft.netcore.app.ref.6.0.6.nupkg.sha512"
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.6\\microsoft.netcore.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.6\\microsoft.windowsdesktop.app.ref.6.0.6.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j7uadyvdzUf7eClcPqJp1Erq64t8Xemb1J8qkyhMVoym+GeAVXWMZ/aV2LAJwgFKM6a+SzaGSH+8G7nf7/3sXg==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\My.Project\\Detachable.Project.IBusiness\\Detachable.Project.IBusiness.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.6\\microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.6\\microsoft.windowsdesktop.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.6\\microsoft.netcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

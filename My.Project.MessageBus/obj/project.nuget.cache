@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ii1IzemJxq/oMOBeBXpNQWTNuIzGNK69BjiGreGmM0q20HqvdKIh8jB3tsI6PdWKHkFkXah/9Yi6J6AjACwGzA==",
+  "dgSpecHash": "8WO6F5eZNTNJTHyEFf1tpdA82V0b39MsjwSDcYhNEivAfI6rkXOkR8b9QtuXlNoznI7oJf3zkSz7s5Ri9W4QzQ==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\My.Project\\My.Project.MessageBus\\My.Project.MessageBus.csproj",
+  "projectFilePath": "D:\\GitHub\\My.Project\\My.Project.MessageBus\\Detachable.Project.MessageBus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\confluent.kafka\\1.5.3\\confluent.kafka.1.5.3.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\librdkafka.redist\\1.5.3\\librdkafka.redist.1.5.3.nupkg.sha512",
@@ -99,8 +99,8 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.6\\microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.6\\microsoft.windowsdesktop.app.ref.6.0.6.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.6\\microsoft.netcore.app.ref.6.0.6.nupkg.sha512"
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.6\\microsoft.netcore.app.ref.6.0.6.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.6\\microsoft.windowsdesktop.app.ref.6.0.6.nupkg.sha512"
   ],
   "logs": []
 }

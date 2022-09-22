@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Detachable.Project.Business\Detachable.Project.Business.csproj" />
+    <ProjectReference Include="..\Detachable.Project.Core\Detachable.Project.Core.csproj" />
+    <ProjectReference Include="..\Detachable.Project.Entity\Detachable.Project.Entity.csproj" />
+    <ProjectReference Include="..\Detachable.Project.IBusiness\Detachable.Project.IBusiness.csproj" />
+    <ProjectReference Include="..\Detachable.Project.MessageBus\Detachable.Project.MessageBus.csproj" />
+    <ProjectReference Include="..\Detachable.Project.Utility\Detachable.Project.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

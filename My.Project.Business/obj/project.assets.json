@@ -587,7 +587,7 @@
           }
         }
       },
-      "My.Project.Core/1.0.0": {
+      "Detachable.Project.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -597,51 +597,51 @@
           "Castle.Core": "5.1.0",
           "Castle.Core.AsyncInterceptor": "2.1.0",
           "Colder.DistributedLock.Hosting": "1.2.53",
+          "Detachable.Project.Entity": "1.0.0",
+          "Detachable.Project.Utility": "1.0.0",
           "Microsoft.Extensions.Caching.Memory": "6.0.1",
           "Microsoft.Extensions.Configuration.Binder": "6.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
-          "Microsoft.Extensions.Hosting.Abstractions": "5.0.0",
-          "My.Project.Entity": "1.0.0",
-          "My.Project.Utility": "1.0.0"
+          "Microsoft.Extensions.Hosting.Abstractions": "5.0.0"
         },
         "compile": {
-          "bin/placeholder/My.Project.Core.dll": {}
+          "bin/placeholder/Detachable.Project.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/My.Project.Core.dll": {}
+          "bin/placeholder/Detachable.Project.Core.dll": {}
         }
       },
-      "My.Project.Entity/1.0.0": {
+      "Detachable.Project.Entity/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/My.Project.Entity.dll": {}
+          "bin/placeholder/Detachable.Project.Entity.dll": {}
         },
         "runtime": {
-          "bin/placeholder/My.Project.Entity.dll": {}
+          "bin/placeholder/Detachable.Project.Entity.dll": {}
         }
       },
-      "My.Project.IBusiness/1.0.0": {
+      "Detachable.Project.IBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/My.Project.IBusiness.dll": {}
+          "bin/placeholder/Detachable.Project.IBusiness.dll": {}
         },
         "runtime": {
-          "bin/placeholder/My.Project.IBusiness.dll": {}
+          "bin/placeholder/Detachable.Project.IBusiness.dll": {}
         }
       },
-      "My.Project.Utility/1.0.0": {
+      "Detachable.Project.Utility/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Quartz": "3.4.0"
         },
         "compile": {
-          "bin/placeholder/My.Project.Utility.dll": {}
+          "bin/placeholder/Detachable.Project.Utility.dll": {}
         },
         "runtime": {
-          "bin/placeholder/My.Project.Utility.dll": {}
+          "bin/placeholder/Detachable.Project.Utility.dll": {}
         }
       }
     }
@@ -1572,31 +1572,31 @@
         "version.txt"
       ]
     },
-    "My.Project.Core/1.0.0": {
+    "Detachable.Project.Core/1.0.0": {
       "type": "project",
-      "path": "../My.Project.Core/My.Project.Core.csproj",
-      "msbuildProject": "../My.Project.Core/My.Project.Core.csproj"
+      "path": "../My.Project.Core/Detachable.Project.Core.csproj",
+      "msbuildProject": "../My.Project.Core/Detachable.Project.Core.csproj"
     },
-    "My.Project.Entity/1.0.0": {
+    "Detachable.Project.Entity/1.0.0": {
       "type": "project",
-      "path": "../My.Project.Entity/My.Project.Entity.csproj",
-      "msbuildProject": "../My.Project.Entity/My.Project.Entity.csproj"
+      "path": "../My.Project.Entity/Detachable.Project.Entity.csproj",
+      "msbuildProject": "../My.Project.Entity/Detachable.Project.Entity.csproj"
     },
-    "My.Project.IBusiness/1.0.0": {
+    "Detachable.Project.IBusiness/1.0.0": {
       "type": "project",
-      "path": "../My.Project.IBusiness/My.Project.IBusiness.csproj",
-      "msbuildProject": "../My.Project.IBusiness/My.Project.IBusiness.csproj"
+      "path": "../My.Project.IBusiness/Detachable.Project.IBusiness.csproj",
+      "msbuildProject": "../My.Project.IBusiness/Detachable.Project.IBusiness.csproj"
     },
-    "My.Project.Utility/1.0.0": {
+    "Detachable.Project.Utility/1.0.0": {
       "type": "project",
-      "path": "../My.Project.Utility/My.Project.Utility.csproj",
-      "msbuildProject": "../My.Project.Utility/My.Project.Utility.csproj"
+      "path": "../My.Project.Utility/Detachable.Project.Utility.csproj",
+      "msbuildProject": "../My.Project.Utility/Detachable.Project.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "My.Project.Core >= 1.0.0",
-      "My.Project.IBusiness >= 1.0.0"
+      "Detachable.Project.Core >= 1.0.0",
+      "Detachable.Project.IBusiness >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1605,9 +1605,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.Business\\My.Project.Business.csproj",
-      "projectName": "My.Project.Business",
-      "projectPath": "D:\\GitHub\\My.Project\\My.Project.Business\\My.Project.Business.csproj",
+      "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.Business\\Detachable.Project.Business.csproj",
+      "projectName": "Detachable.Project.Business",
+      "projectPath": "D:\\GitHub\\My.Project\\My.Project.Business\\Detachable.Project.Business.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "D:\\GitHub\\My.Project\\My.Project.Business\\obj\\",
       "projectStyle": "PackageReference",
@@ -1626,11 +1626,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\GitHub\\My.Project\\My.Project.Core\\My.Project.Core.csproj": {
-              "projectPath": "D:\\GitHub\\My.Project\\My.Project.Core\\My.Project.Core.csproj"
+            "D:\\GitHub\\My.Project\\My.Project.Core\\Detachable.Project.Core.csproj": {
+              "projectPath": "D:\\GitHub\\My.Project\\My.Project.Core\\Detachable.Project.Core.csproj"
             },
-            "D:\\GitHub\\My.Project\\My.Project.IBusiness\\My.Project.IBusiness.csproj": {
-              "projectPath": "D:\\GitHub\\My.Project\\My.Project.IBusiness\\My.Project.IBusiness.csproj"
+            "D:\\GitHub\\My.Project\\My.Project.IBusiness\\Detachable.Project.IBusiness.csproj": {
+              "projectPath": "D:\\GitHub\\My.Project\\My.Project.IBusiness\\Detachable.Project.IBusiness.csproj"
             }
           }
         }

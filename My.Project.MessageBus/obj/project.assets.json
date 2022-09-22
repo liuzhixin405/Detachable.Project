@@ -5541,9 +5541,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.MessageBus\\My.Project.MessageBus.csproj",
-      "projectName": "My.Project.MessageBus",
-      "projectPath": "D:\\GitHub\\My.Project\\My.Project.MessageBus\\My.Project.MessageBus.csproj",
+      "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.MessageBus\\Detachable.Project.MessageBus.csproj",
+      "projectName": "Detachable.Project.MessageBus",
+      "projectPath": "D:\\GitHub\\My.Project\\My.Project.MessageBus\\Detachable.Project.MessageBus.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "D:\\GitHub\\My.Project\\My.Project.MessageBus\\obj\\",
       "projectStyle": "PackageReference",

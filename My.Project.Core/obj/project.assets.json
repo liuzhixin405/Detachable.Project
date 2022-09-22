@@ -587,27 +587,27 @@
           }
         }
       },
-      "My.Project.Entity/1.0.0": {
+      "Detachable.Project.Entity/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/My.Project.Entity.dll": {}
+          "bin/placeholder/Detachable.Project.Entity.dll": {}
         },
         "runtime": {
-          "bin/placeholder/My.Project.Entity.dll": {}
+          "bin/placeholder/Detachable.Project.Entity.dll": {}
         }
       },
-      "My.Project.Utility/1.0.0": {
+      "Detachable.Project.Utility/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Quartz": "3.4.0"
         },
         "compile": {
-          "bin/placeholder/My.Project.Utility.dll": {}
+          "bin/placeholder/Detachable.Project.Utility.dll": {}
         },
         "runtime": {
-          "bin/placeholder/My.Project.Utility.dll": {}
+          "bin/placeholder/Detachable.Project.Utility.dll": {}
         }
       }
     }
@@ -1538,15 +1538,15 @@
         "version.txt"
       ]
     },
-    "My.Project.Entity/1.0.0": {
+    "Detachable.Project.Entity/1.0.0": {
       "type": "project",
-      "path": "../My.Project.Entity/My.Project.Entity.csproj",
-      "msbuildProject": "../My.Project.Entity/My.Project.Entity.csproj"
+      "path": "../My.Project.Entity/Detachable.Project.Entity.csproj",
+      "msbuildProject": "../My.Project.Entity/Detachable.Project.Entity.csproj"
     },
-    "My.Project.Utility/1.0.0": {
+    "Detachable.Project.Utility/1.0.0": {
       "type": "project",
-      "path": "../My.Project.Utility/My.Project.Utility.csproj",
-      "msbuildProject": "../My.Project.Utility/My.Project.Utility.csproj"
+      "path": "../My.Project.Utility/Detachable.Project.Utility.csproj",
+      "msbuildProject": "../My.Project.Utility/Detachable.Project.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1557,12 +1557,12 @@
       "Castle.Core >= 5.1.0",
       "Castle.Core.AsyncInterceptor >= 2.1.0",
       "Colder.DistributedLock.Hosting >= 1.2.53",
+      "Detachable.Project.Entity >= 1.0.0",
+      "Detachable.Project.Utility >= 1.0.0",
       "Microsoft.Extensions.Caching.Memory >= 6.0.1",
       "Microsoft.Extensions.Configuration.Binder >= 6.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 6.0.0",
-      "Microsoft.Extensions.Hosting.Abstractions >= 5.0.0",
-      "My.Project.Entity >= 1.0.0",
-      "My.Project.Utility >= 1.0.0"
+      "Microsoft.Extensions.Hosting.Abstractions >= 5.0.0"
     ]
   },
   "packageFolders": {
@@ -1571,9 +1571,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.Core\\My.Project.Core.csproj",
-      "projectName": "My.Project.Core",
-      "projectPath": "D:\\GitHub\\My.Project\\My.Project.Core\\My.Project.Core.csproj",
+      "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.Core\\Detachable.Project.Core.csproj",
+      "projectName": "Detachable.Project.Core",
+      "projectPath": "D:\\GitHub\\My.Project\\My.Project.Core\\Detachable.Project.Core.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "D:\\GitHub\\My.Project\\My.Project.Core\\obj\\",
       "projectStyle": "PackageReference",
@@ -1592,11 +1592,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\GitHub\\My.Project\\My.Project.Entity\\My.Project.Entity.csproj": {
-              "projectPath": "D:\\GitHub\\My.Project\\My.Project.Entity\\My.Project.Entity.csproj"
+            "D:\\GitHub\\My.Project\\My.Project.Entity\\Detachable.Project.Entity.csproj": {
+              "projectPath": "D:\\GitHub\\My.Project\\My.Project.Entity\\Detachable.Project.Entity.csproj"
             },
-            "D:\\GitHub\\My.Project\\My.Project.Utility\\My.Project.Utility.csproj": {
-              "projectPath": "D:\\GitHub\\My.Project\\My.Project.Utility\\My.Project.Utility.csproj"
+            "D:\\GitHub\\My.Project\\My.Project.Utility\\Detachable.Project.Utility.csproj": {
+              "projectPath": "D:\\GitHub\\My.Project\\My.Project.Utility\\Detachable.Project.Utility.csproj"
             }
           }
         }

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.IBusiness\\My.Project.IBusiness.csproj",
-      "projectName": "My.Project.IBusiness",
-      "projectPath": "D:\\GitHub\\My.Project\\My.Project.IBusiness\\My.Project.IBusiness.csproj",
+      "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.IBusiness\\Detachable.Project.IBusiness.csproj",
+      "projectName": "Detachable.Project.IBusiness",
+      "projectPath": "D:\\GitHub\\My.Project\\My.Project.IBusiness\\Detachable.Project.IBusiness.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "D:\\GitHub\\My.Project\\My.Project.IBusiness\\obj\\",
       "projectStyle": "PackageReference",

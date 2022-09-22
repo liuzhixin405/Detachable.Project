@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.Entity\\My.Project.Entity.csproj",
-      "projectName": "My.Project.Entity",
-      "projectPath": "D:\\GitHub\\My.Project\\My.Project.Entity\\My.Project.Entity.csproj",
+      "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.Entity\\Detachable.Project.Entity.csproj",
+      "projectName": "Detachable.Project.Entity",
+      "projectPath": "D:\\GitHub\\My.Project\\My.Project.Entity\\Detachable.Project.Entity.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "D:\\GitHub\\My.Project\\My.Project.Entity\\obj\\",
       "projectStyle": "PackageReference",

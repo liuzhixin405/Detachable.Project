@@ -596,9 +596,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.Utility\\My.Project.Utility.csproj",
-      "projectName": "My.Project.Utility",
-      "projectPath": "D:\\GitHub\\My.Project\\My.Project.Utility\\My.Project.Utility.csproj",
+      "projectUniqueName": "D:\\GitHub\\My.Project\\My.Project.Utility\\Detachable.Project.Utility.csproj",
+      "projectName": "Detachable.Project.Utility",
+      "projectPath": "D:\\GitHub\\My.Project\\My.Project.Utility\\Detachable.Project.Utility.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "D:\\GitHub\\My.Project\\My.Project.Utility\\obj\\",
       "projectStyle": "PackageReference",
