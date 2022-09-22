@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "upo1BpCkL2Ru7s42VAPmeQ6qEIxLIGBlmn0/r82/SvOSnGQd64DPhdotxx8RRSzE77hJYbN7DzkrvHWsgkdxuw==",
+  "dgSpecHash": "cXuyKLQi5H4JrEpoq9pirlRAHTGiF3pym6t+8G+LWWBcEy7gfILU3GmA58ASial4uzo31Em2YSZMk4fIHP09bA==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\My.Project\\Detachable.Project.Core\\Detachable.Project.Core.csproj",
+  "projectFilePath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Core\\Detachable.Project.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\caching.csredis\\3.8.669\\caching.csredis.3.8.669.nupkg.sha512",

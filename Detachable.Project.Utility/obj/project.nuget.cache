@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9j239aTAJEOdwR3DFJoQJCNn1EMLsNh7r6Fa/dimzwloJtlSHvusYGnfOgU2OqNGuoyXymY9IqoXouNaY/N4Wg==",
+  "dgSpecHash": "wk9a9ETgXOQq3XdQtIxBWzIXHNKG7ZR+AuUIrn7nGXvysykvw5JoyrF+FZz8mSFBY7guuagR4CiRmalx7f0ckw==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\My.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj",
+  "projectFilePath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

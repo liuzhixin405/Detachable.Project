@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rkKsuFmM2ck9YaeratKfy0A3urRcnzqxpf5HDpl6iqRg22B7S5mOvSto0VxDroXd8tvxRqrsrwDmFXHZH2OpZg==",
+  "dgSpecHash": "VmEQiUsNrNuxI+fJXd3iBJkzaSrW3qofNhy2Y1SAVuqd9NULWm/JLE0MZWpJJCGprV4wsHirohh5J2JkCsT5MA==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\My.Project\\Detachable.Project.MessageBus\\Detachable.Project.MessageBus.csproj",
+  "projectFilePath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.MessageBus\\Detachable.Project.MessageBus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\confluent.kafka\\1.5.3\\confluent.kafka.1.5.3.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\librdkafka.redist\\1.5.3\\librdkafka.redist.1.5.3.nupkg.sha512",

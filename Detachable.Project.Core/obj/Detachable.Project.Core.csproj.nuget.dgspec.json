@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\My.Project\\Detachable.Project.Core\\Detachable.Project.Core.csproj": {}
+    "D:\\GitHub\\Detachable.Project\\Detachable.Project.Core\\Detachable.Project.Core.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\My.Project\\Detachable.Project.Core\\Detachable.Project.Core.csproj": {
+    "D:\\GitHub\\Detachable.Project\\Detachable.Project.Core\\Detachable.Project.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\My.Project\\Detachable.Project.Core\\Detachable.Project.Core.csproj",
+        "projectUniqueName": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Core\\Detachable.Project.Core.csproj",
         "projectName": "Detachable.Project.Core",
-        "projectPath": "D:\\GitHub\\My.Project\\Detachable.Project.Core\\Detachable.Project.Core.csproj",
+        "projectPath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Core\\Detachable.Project.Core.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\My.Project\\Detachable.Project.Core\\obj\\",
+        "outputPath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\GitHub\\My.Project\\Detachable.Project.Entity\\Detachable.Project.Entity.csproj": {
-                "projectPath": "D:\\GitHub\\My.Project\\Detachable.Project.Entity\\Detachable.Project.Entity.csproj"
+              "D:\\GitHub\\Detachable.Project\\Detachable.Project.Entity\\Detachable.Project.Entity.csproj": {
+                "projectPath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Entity\\Detachable.Project.Entity.csproj"
               },
-              "D:\\GitHub\\My.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj": {
-                "projectPath": "D:\\GitHub\\My.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj"
+              "D:\\GitHub\\Detachable.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj": {
+                "projectPath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj"
               }
             }
           }
@@ -122,14 +122,14 @@
         }
       }
     },
-    "D:\\GitHub\\My.Project\\Detachable.Project.Entity\\Detachable.Project.Entity.csproj": {
+    "D:\\GitHub\\Detachable.Project\\Detachable.Project.Entity\\Detachable.Project.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\My.Project\\Detachable.Project.Entity\\Detachable.Project.Entity.csproj",
+        "projectUniqueName": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Entity\\Detachable.Project.Entity.csproj",
         "projectName": "Detachable.Project.Entity",
-        "projectPath": "D:\\GitHub\\My.Project\\Detachable.Project.Entity\\Detachable.Project.Entity.csproj",
+        "projectPath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Entity\\Detachable.Project.Entity.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\My.Project\\Detachable.Project.Entity\\obj\\",
+        "outputPath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -191,14 +191,14 @@
         }
       }
     },
-    "D:\\GitHub\\My.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj": {
+    "D:\\GitHub\\Detachable.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\My.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj",
+        "projectUniqueName": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj",
         "projectName": "Detachable.Project.Utility",
-        "projectPath": "D:\\GitHub\\My.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj",
+        "projectPath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\My.Project\\Detachable.Project.Utility\\obj\\",
+        "outputPath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

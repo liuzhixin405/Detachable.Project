@@ -596,11 +596,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\My.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj",
+      "projectUniqueName": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj",
       "projectName": "Detachable.Project.Utility",
-      "projectPath": "D:\\GitHub\\My.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj",
+      "projectPath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\My.Project\\Detachable.Project.Utility\\obj\\",
+      "outputPath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
