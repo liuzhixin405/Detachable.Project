@@ -1221,6 +1221,9 @@
         }
       },
       "Detachable.Project.Entity/1.0.0": {
+        "dependencies": {
+          "Detachable.Project.MessageBus": "1.0.0"
+        },
         "runtime": {
           "Detachable.Project.Entity.dll": {}
         }

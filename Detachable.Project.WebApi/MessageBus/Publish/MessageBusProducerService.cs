@@ -1,11 +1,10 @@
 ﻿using Microsoft.Extensions.Hosting;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
 using Detachable.Project.Abstractions;
+using Detachable.Project.Entity.EventModel;
 
 namespace Detachable.Project.Publish
 {
@@ -34,6 +33,12 @@ namespace Detachable.Project.Publish
             {
                 var messageBus = _serviceProvider.GetService<IMessageBus>();
                 await messageBus.Publish(new Message<string>() { Data = $"{DateTime.Now} Producer Test publish." });
+
+                await messageBus.Publish(new DictionaryMessageEvent
+                {
+                    Data = new Dictionary<string, string> { { $"00{i}", $"project{i}" } },
+                    EventID = Guid.NewGuid().ToString()
+                });
                 i--;
             };
         }

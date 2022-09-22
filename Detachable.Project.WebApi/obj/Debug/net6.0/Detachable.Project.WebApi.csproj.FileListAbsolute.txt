@@ -177,6 +177,12 @@ D:\GitHub\My.Project\Detachable.Project.WebApi\obj\Debug\net6.0\refint\Detachabl
 D:\GitHub\My.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.pdb
 D:\GitHub\My.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.genruntimeconfig.cache
 D:\GitHub\My.Project\Detachable.Project.WebApi\obj\Debug\net6.0\ref\Detachable.Project.WebApi.dll
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.csproj.AssemblyReference.cache
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.AssemblyInfoInputs.cache
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.AssemblyInfo.cs
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.csproj.CoreCompileInputs.cache
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.MvcApplicationPartsAssemblyInfo.cache
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\appsettings.Development.json
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\appsettings.json
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.WebApi.exe
@@ -237,6 +243,7 @@ D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\runtimes
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.Business.dll
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.Core.dll
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.Entity.dll
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.ExternalAssembly.dll
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.IBusiness.dll
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.MessageBus.dll
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.Utility.dll
@@ -246,13 +253,7 @@ D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachab
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.IBusiness.pdb
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.MessageBus.pdb
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.Utility.pdb
-D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.csproj.AssemblyReference.cache
-D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.GeneratedMSBuildEditorConfig.editorconfig
-D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.AssemblyInfoInputs.cache
-D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.AssemblyInfo.cs
-D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.csproj.CoreCompileInputs.cache
-D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.MvcApplicationPartsAssemblyInfo.cs
-D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.ExternalAssembly.pdb
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.Detachable.Project.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.Detachable.Project.WebApi.props
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Detachable.Project.WebApi.props
@@ -267,5 +268,3 @@ D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\refint\D
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.pdb
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.genruntimeconfig.cache
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\ref\Detachable.Project.WebApi.dll
-D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.ExternalAssembly.dll
-D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.ExternalAssembly.pdb

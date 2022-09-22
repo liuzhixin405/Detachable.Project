@@ -11,6 +11,9 @@ using System.Collections.Generic;
 using Detachable.Project;
 using Detachable.Project.Abstractions;
 using Detachable.Project.Publish;
+using Detachable.Project.Entity.EventModel;
+using Detachable.Project.WebApi.MessageBus.Consum;
+using Detachable.Project.Utility;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,7 +24,10 @@ builder.Host.UseDistributedLock();
 builder.Host.UseCache();
 builder.Services.AddHostedService<BackServices>();
 builder.Services.AddControllers();
-builder.Host.UseMessageBus(() => new List<IProducer>() { new Producer<Message<string>>("TopicTestName") }, () => new List<IConsumer>() { new Consumer<Message<string>, MessageBusTestHandler>("TopicTestName") });
+builder.Host.UseMessageBus(
+    () => new List<IProducer>() { new Producer<Message<string>>(GlobalConstant.TopicTestName) ,new Producer<DictionaryMessageEvent>(GlobalConstant.DictionaryMessageEvent) }, 
+    () => new List<IConsumer>() { new Consumer<Message<string>, MessageBusTestHandler>(GlobalConstant.TopicTestName) ,
+    new Consumer<DictionaryMessageEvent,MessageDictionaryHandler>(GlobalConstant.DictionaryMessageEvent)});
 builder.Services.AddHostedService<MessageBusProducerService>();
 
 builder.Services.AddSwaggerGen(c =>

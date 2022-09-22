@@ -214,7 +214,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\GitHub\\Detachable.Project\\Detachable.Project.MessageBus\\Detachable.Project.MessageBus.csproj": {
+                "projectPath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.MessageBus\\Detachable.Project.MessageBus.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
