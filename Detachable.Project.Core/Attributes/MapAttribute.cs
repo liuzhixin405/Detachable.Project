@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Detachable.Project.Entity.Attributes
+namespace Detachable.Project.Core.Attributes
 {
     public class MapAttribute:Attribute
     {

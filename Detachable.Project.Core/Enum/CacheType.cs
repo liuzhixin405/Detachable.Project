@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Detachable.Project.Entity.Enum
+namespace Detachable.Project.Core.Enum
 {
     /// <summary>
     /// 缓存类型

@@ -103,14 +103,7 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {
-              "D:\\GitHub\\Detachable.Project\\Detachable.Project.Entity\\Detachable.Project.Entity.csproj": {
-                "projectPath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Entity\\Detachable.Project.Entity.csproj"
-              },
-              "D:\\GitHub\\Detachable.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj": {
-                "projectPath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.Utility\\Detachable.Project.Utility.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

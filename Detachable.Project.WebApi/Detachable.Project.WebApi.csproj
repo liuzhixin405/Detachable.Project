@@ -17,5 +17,10 @@
     <ProjectReference Include="..\Detachable.Project.MessageBus\Detachable.Project.MessageBus.csproj" />
     <ProjectReference Include="..\Detachable.Project.Utility\Detachable.Project.Utility.csproj" />
   </ItemGroup>
-
+	<ItemGroup>
+		<Reference Include="StartupDiagnostics">
+			<HintPath>..\Detachable.Project.ExternalAssembly\bin\Debug\net6.0\Detachable.Project.ExternalAssembly.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+	<!---可以通过打nuget包引入,使Detachable.Project.ExternalAssembly脱离该解决方案-->
 </Project>

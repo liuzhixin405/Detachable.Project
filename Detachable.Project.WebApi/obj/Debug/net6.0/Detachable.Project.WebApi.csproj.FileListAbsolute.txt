@@ -267,3 +267,5 @@ D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\refint\D
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.pdb
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\Detachable.Project.WebApi.genruntimeconfig.cache
 D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Debug\net6.0\ref\Detachable.Project.WebApi.dll
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.ExternalAssembly.dll
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\bin\Debug\net6.0\Detachable.Project.ExternalAssembly.pdb

@@ -18,9 +18,4 @@
     <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="5.0.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Detachable.Project.Entity\Detachable.Project.Entity.csproj" />
-    <ProjectReference Include="..\Detachable.Project.Utility\Detachable.Project.Utility.csproj" />
-  </ItemGroup>
-
 </Project>

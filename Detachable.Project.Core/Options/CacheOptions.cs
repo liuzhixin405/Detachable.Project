@@ -1,11 +1,11 @@
-﻿using Detachable.Project.Entity.Enum;
+﻿using Detachable.Project.Core.Enum;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Detachable.Project.Entity.Options
+namespace Detachable.Project.Core.Options
 {
     public class CacheOptions
     {

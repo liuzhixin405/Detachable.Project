@@ -9,8 +9,8 @@ using Castle.DynamicProxy;
 using Detachable.Project.Core.Abstraction;
 using System.Reflection;
 using AutoMapper;
-using Detachable.Project.Entity.Attributes;
-using Detachable.Project.Utility.Extensions;
+using Detachable.Project.Core.Attributes;
+using Detachable.Project.Core.Expand;
 
 namespace Detachable.Project.Core.Extensions
 {

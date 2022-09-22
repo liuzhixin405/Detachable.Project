@@ -2150,8 +2150,6 @@
           "Castle.Core": "5.1.0",
           "Castle.Core.AsyncInterceptor": "2.1.0",
           "Colder.DistributedLock.Hosting": "1.2.53",
-          "Detachable.Project.Entity": "1.0.0",
-          "Detachable.Project.Utility": "1.0.0",
           "Microsoft.Extensions.Caching.Memory": "6.0.1",
           "Microsoft.Extensions.Configuration.Binder": "6.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",

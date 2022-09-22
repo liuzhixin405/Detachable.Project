@@ -6,11 +6,11 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
-using Detachable.Project.Entity.Options;
 using CSRedis;
 using Microsoft.Extensions.Caching.Distributed;
 using Microsoft.Extensions.Caching.Redis;
 using Colder.DistributedLock.Hosting;
+using Detachable.Project.Core.Options;
 
 namespace Detachable.Project.Core.Extensions
 {
@@ -23,10 +23,10 @@ namespace Detachable.Project.Core.Extensions
                 var cacheOption = context.Configuration.GetSection("Cache").Get<CacheOptions>();
                 switch (cacheOption.CacheType)
                 {
-                    case Entity.Enum.CacheType.Memory:
+                    case Core.Enum.CacheType.Memory:
                         services.AddMemoryCache();
                         break;
-                    case Entity.Enum.CacheType.Redis:
+                    case Core.Enum.CacheType.Redis:
                         /*
                          var csredis = new CSRedis.CSRedisClient("mymaster,password=123,prefix=my_", 
                             new [] { "192.169.1.10:26379", "192.169.1.11:26379", "192.169.1.12:26379" });//哨兵

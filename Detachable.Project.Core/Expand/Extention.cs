@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Detachable.Project.Utility.Extensions
+namespace Detachable.Project.Core.Expand
 {
     public static partial class Extention
     {
