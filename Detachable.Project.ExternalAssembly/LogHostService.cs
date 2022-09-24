@@ -17,9 +17,6 @@ namespace Detachable.Project.ExternalAssembly
         public LogHostService(IServiceProvider serviceProvider)
         {
             _serviceProvider = serviceProvider;
-
-            DiagnosticListener.AllListeners.Subscribe(new DiagnosticObserver(serviceProvider.GetRequiredService<ILoggerFactory>(), 500));
-
         }
 
         protected override Task ExecuteAsync(CancellationToken stoppingToken)
