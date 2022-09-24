@@ -28,7 +28,7 @@ namespace Detachable.Project.Publish
 
         protected async override Task ExecuteAsync(CancellationToken cancellationToken)
         {
-            int i = 10;
+            int i = 1;
             while(i > 0)
             {
                 var messageBus = _serviceProvider.GetService<IMessageBus>();

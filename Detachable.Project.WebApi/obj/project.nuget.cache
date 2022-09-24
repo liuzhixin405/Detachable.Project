@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ln1y8UqMwPjKT+qGiNuNfS/92hMrZe7qxDVzoA6bTOkGWiUDrmqsyxC3NAM1kc7MJoU+U+jnLjTPLsmFRz6L9A==",
+  "dgSpecHash": "id0EiUAYDURWiD7I/PtxLXtGM2y3HNbS7+eSBElvJNuZomHV+k9ywgu66JfcLjcWeBdcocBXEoL781UPrGLUrQ==",
   "success": true,
   "projectFilePath": "D:\\GitHub\\Detachable.Project\\Detachable.Project.WebApi\\Detachable.Project.WebApi.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.1.29\\microsoft.extensions.diagnosticadapter.3.1.29.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\5.0.0\\microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\5.0.0\\microsoft.extensions.hosting.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",

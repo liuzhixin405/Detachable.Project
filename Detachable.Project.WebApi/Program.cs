@@ -1,34 +1,18 @@
-using Confluent.Kafka;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using Microsoft.OpenApi.Models;
-using Detachable.Project.Core.Extensions;
-using Detachable.Project.DependencyInjection;
-using Detachable.Project.WebApi.Consistency;
-using Detachable.Project.MessageBus;
-using System.Collections.Generic;
-using Detachable.Project;
-using Detachable.Project.Abstractions;
-using Detachable.Project.Publish;
-using Detachable.Project.Entity.EventModel;
-using Detachable.Project.WebApi.MessageBus.Consum;
-using Detachable.Project.Utility;
+using Detachable.Project.WebApi.Extensions;
 
+
+/**********注意注意注意注意注意Detachable.Project.ExternalAssembly有可能不是最新的,需要删除再生成注意注意注意注意注意注意注意注意********************/
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddFxServices();
-builder.Services.AddAutoMapper();
-builder.Host.UseDistributedLock();
-builder.Host.UseCache();
-builder.Services.AddHostedService<BackServices>();
+builder.AddCache();
+builder.Services.AddService();
+builder.SetMessageBus();
 builder.Services.AddControllers();
-builder.Host.UseMessageBus(
-    () => new List<IProducer>() { new Producer<Message<string>>(GlobalConstant.TopicTestName) ,new Producer<DictionaryMessageEvent>(GlobalConstant.DictionaryMessageEvent) }, 
-    () => new List<IConsumer>() { new Consumer<Message<string>, MessageBusTestHandler>(GlobalConstant.TopicTestName) ,
-    new Consumer<DictionaryMessageEvent,MessageDictionaryHandler>(GlobalConstant.DictionaryMessageEvent)});
-builder.Services.AddHostedService<MessageBusProducerService>();
+builder.Host.ConfigureLogging(log =>
+{
+    log.AddConsole();
+});
 
 builder.Services.AddSwaggerGen(c =>
 {
