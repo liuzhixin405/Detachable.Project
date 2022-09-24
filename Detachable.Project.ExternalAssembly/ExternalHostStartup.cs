@@ -1,5 +1,4 @@
-﻿using Detachable.Project.ExternalAssembly.Diagnostics;
-using Microsoft.AspNetCore.Hosting;
+﻿using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using System;
