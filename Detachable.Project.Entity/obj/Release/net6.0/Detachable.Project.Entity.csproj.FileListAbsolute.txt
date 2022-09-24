@@ -1,0 +1,15 @@
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\bin\Release\net6.0\Detachable.Project.Entity.deps.json
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\bin\Release\net6.0\Detachable.Project.Entity.dll
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\bin\Release\net6.0\Detachable.Project.Entity.pdb
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\bin\Release\net6.0\Detachable.Project.MessageBus.dll
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\bin\Release\net6.0\Detachable.Project.MessageBus.pdb
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\obj\Release\net6.0\Detachable.Project.Entity.csproj.AssemblyReference.cache
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\obj\Release\net6.0\Detachable.Project.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\obj\Release\net6.0\Detachable.Project.Entity.AssemblyInfoInputs.cache
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\obj\Release\net6.0\Detachable.Project.Entity.AssemblyInfo.cs
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\obj\Release\net6.0\Detachable.Project.Entity.csproj.CoreCompileInputs.cache
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\obj\Release\net6.0\Detachable.Project.Entity.csproj.CopyComplete
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\obj\Release\net6.0\Detachable.Project.Entity.dll
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\obj\Release\net6.0\refint\Detachable.Project.Entity.dll
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\obj\Release\net6.0\Detachable.Project.Entity.pdb
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\obj\Release\net6.0\ref\Detachable.Project.Entity.dll

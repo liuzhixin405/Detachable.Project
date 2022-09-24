@@ -1,4 +1,4 @@
-﻿using Detachable.Project.Core.IService;
+﻿ using Detachable.Project.Core.IService;
 using Detachable.Project.WebApi.Consistency;
 using System;
 using System.Threading.Tasks;

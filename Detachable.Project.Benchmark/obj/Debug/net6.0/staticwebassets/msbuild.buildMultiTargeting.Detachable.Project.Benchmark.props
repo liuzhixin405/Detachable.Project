@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Detachable.Project.Benchmark.props" />
+</Project>
