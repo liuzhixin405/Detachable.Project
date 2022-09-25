@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Hosting;
+﻿using Detachable.Project.ExternalAssembly.Extensions;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using System;
@@ -18,7 +19,9 @@ namespace Detachable.Project.ExternalAssembly
             builder.ConfigureServices((context, service) =>
             {
                 service.AddHostedService<LogHostService>();
+                //service.AddAPM(ext => ext.AddHosting());
             });
+            builder.ConfigureServices(service => service.AddAPM(ext => ext.AddHosting()));
         }
     }
 }

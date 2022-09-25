@@ -9,7 +9,6 @@
       "Detachable.Project.Benchmark/1.0.0": {
         "dependencies": {
           "BenchmarkDotNet": "0.13.2",
-          "BenchmarkDotNet.Annotations": "0.13.2",
           "Detachable.Project.Business": "1.0.0",
           "Detachable.Project.IBusiness": "1.0.0",
           "Detachable.Project.WebApi": "1.0.0"

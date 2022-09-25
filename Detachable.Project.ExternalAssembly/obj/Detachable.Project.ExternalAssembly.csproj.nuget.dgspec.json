@@ -43,6 +43,10 @@
             "Microsoft.AspNetCore.Hosting.Abstractions": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.DiagnosticAdapter": {
+              "target": "Package",
+              "version": "[3.1.29, )"
             }
           },
           "imports": [

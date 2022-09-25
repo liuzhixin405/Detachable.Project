@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v6.0": {
       "Detachable.Project.Test/1.0.0": {
         "dependencies": {
-          "BenchmarkDotNet.Annotations": "0.13.2",
           "Detachable.Project.Business": "1.0.0",
           "Detachable.Project.IBusiness": "1.0.0",
           "Detachable.Project.WebApi": "1.0.0",
@@ -31,14 +30,6 @@
           "lib/netstandard2.1/AutoMapper.dll": {
             "assemblyVersion": "11.0.0.0",
             "fileVersion": "11.0.1.0"
-          }
-        }
-      },
-      "BenchmarkDotNet.Annotations/0.13.2": {
-        "runtime": {
-          "lib/netstandard2.0/BenchmarkDotNet.Annotations.dll": {
-            "assemblyVersion": "0.13.2.0",
-            "fileVersion": "0.13.2.0"
           }
         }
       },
@@ -1110,13 +1101,6 @@
       "sha512": "sha512-WIadGC1pIwbnyTubvI577p3F++Bsj9q2Q3OaAc1I0QS+JhupN1xkdrPBhI9bPIeg63zM81tZplUNYkqU1HE5jQ==",
       "path": "automapper/11.0.1",
       "hashPath": "automapper.11.0.1.nupkg.sha512"
-    },
-    "BenchmarkDotNet.Annotations/0.13.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-+SGOYyXT6fiagbtrni38B8BqBgjruYKU3PfROI0lDIYo8jQ+APUmLKMEswK7zwR5fEOCrDmoAHSH6oykBkqPgA==",
-      "path": "benchmarkdotnet.annotations/0.13.2",
-      "hashPath": "benchmarkdotnet.annotations.0.13.2.nupkg.sha512"
     },
     "Caching.CSRedis/3.8.669": {
       "type": "package",

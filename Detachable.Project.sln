@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Detachable.Project.External
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Detachable.Project.Test", "Detachable.Project.Test\Detachable.Project.Test.csproj", "{6A4456BA-7C05-468F-8446-C1B9012E9982}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detachable.Project.Benchmark", "Detachable.Project.Benchmark\Detachable.Project.Benchmark.csproj", "{9ABDF819-4903-455E-B243-A86AE4CD14AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Detachable.Project.Benchmark", "Detachable.Project.Benchmark\Detachable.Project.Benchmark.csproj", "{9ABDF819-4903-455E-B243-A86AE4CD14AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
