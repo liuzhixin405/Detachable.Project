@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Detachable.Project.Benchmark.props" />
-</Project>

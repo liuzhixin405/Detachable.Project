@@ -32,15 +32,3 @@ D:\GitHub\My.Project\Detachable.Project.Core\obj\Debug\net6.0\Detachable.Project
 D:\GitHub\My.Project\Detachable.Project.Core\obj\Debug\net6.0\refint\Detachable.Project.Core.dll
 D:\GitHub\My.Project\Detachable.Project.Core\obj\Debug\net6.0\Detachable.Project.Core.pdb
 D:\GitHub\My.Project\Detachable.Project.Core\obj\Debug\net6.0\ref\Detachable.Project.Core.dll
-D:\GitHub\Detachable.Project\Detachable.Project.Core\bin\Debug\net6.0\Detachable.Project.Core.deps.json
-D:\GitHub\Detachable.Project\Detachable.Project.Core\bin\Debug\net6.0\Detachable.Project.Core.dll
-D:\GitHub\Detachable.Project\Detachable.Project.Core\bin\Debug\net6.0\Detachable.Project.Core.pdb
-D:\GitHub\Detachable.Project\Detachable.Project.Core\obj\Debug\net6.0\Detachable.Project.Core.csproj.AssemblyReference.cache
-D:\GitHub\Detachable.Project\Detachable.Project.Core\obj\Debug\net6.0\Detachable.Project.Core.GeneratedMSBuildEditorConfig.editorconfig
-D:\GitHub\Detachable.Project\Detachable.Project.Core\obj\Debug\net6.0\Detachable.Project.Core.AssemblyInfoInputs.cache
-D:\GitHub\Detachable.Project\Detachable.Project.Core\obj\Debug\net6.0\Detachable.Project.Core.AssemblyInfo.cs
-D:\GitHub\Detachable.Project\Detachable.Project.Core\obj\Debug\net6.0\Detachable.Project.Core.csproj.CoreCompileInputs.cache
-D:\GitHub\Detachable.Project\Detachable.Project.Core\obj\Debug\net6.0\Detachable.Project.Core.dll
-D:\GitHub\Detachable.Project\Detachable.Project.Core\obj\Debug\net6.0\refint\Detachable.Project.Core.dll
-D:\GitHub\Detachable.Project\Detachable.Project.Core\obj\Debug\net6.0\Detachable.Project.Core.pdb
-D:\GitHub\Detachable.Project\Detachable.Project.Core\obj\Debug\net6.0\ref\Detachable.Project.Core.dll
