@@ -5,7 +5,6 @@ using Detachable.Project.IBusiness;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.Extensions.DiagnosticAdapter;
 
 namespace Detachable.Project.WebApi.Controllers;
 [ApiController]
@@ -38,10 +37,11 @@ public class TestController : ControllerBase
     }
 
 
-    [DiagnosticName("MyTest")]
+    
     [HttpGet]
-    public async Task SetValue(string name,int value)
+    public Task SetValue(string name,int value)
     {
+        return Task.CompletedTask;
     }
 
 }

@@ -1,0 +1,12 @@
+D:\GitHub\Detachable.Project\Detachable.Project.IBusiness\bin\Release\net6.0\Detachable.Project.IBusiness.deps.json
+D:\GitHub\Detachable.Project\Detachable.Project.IBusiness\bin\Release\net6.0\Detachable.Project.IBusiness.dll
+D:\GitHub\Detachable.Project\Detachable.Project.IBusiness\bin\Release\net6.0\Detachable.Project.IBusiness.pdb
+D:\GitHub\Detachable.Project\Detachable.Project.IBusiness\obj\Release\net6.0\Detachable.Project.IBusiness.csproj.AssemblyReference.cache
+D:\GitHub\Detachable.Project\Detachable.Project.IBusiness\obj\Release\net6.0\Detachable.Project.IBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Detachable.Project\Detachable.Project.IBusiness\obj\Release\net6.0\Detachable.Project.IBusiness.AssemblyInfoInputs.cache
+D:\GitHub\Detachable.Project\Detachable.Project.IBusiness\obj\Release\net6.0\Detachable.Project.IBusiness.AssemblyInfo.cs
+D:\GitHub\Detachable.Project\Detachable.Project.IBusiness\obj\Release\net6.0\Detachable.Project.IBusiness.csproj.CoreCompileInputs.cache
+D:\GitHub\Detachable.Project\Detachable.Project.IBusiness\obj\Release\net6.0\Detachable.Project.IBusiness.dll
+D:\GitHub\Detachable.Project\Detachable.Project.IBusiness\obj\Release\net6.0\refint\Detachable.Project.IBusiness.dll
+D:\GitHub\Detachable.Project\Detachable.Project.IBusiness\obj\Release\net6.0\Detachable.Project.IBusiness.pdb
+D:\GitHub\Detachable.Project\Detachable.Project.IBusiness\obj\Release\net6.0\ref\Detachable.Project.IBusiness.dll

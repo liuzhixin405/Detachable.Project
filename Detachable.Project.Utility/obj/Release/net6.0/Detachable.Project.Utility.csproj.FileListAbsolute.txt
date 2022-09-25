@@ -1,0 +1,12 @@
+D:\GitHub\Detachable.Project\Detachable.Project.Utility\bin\Release\net6.0\Detachable.Project.Utility.deps.json
+D:\GitHub\Detachable.Project\Detachable.Project.Utility\bin\Release\net6.0\Detachable.Project.Utility.dll
+D:\GitHub\Detachable.Project\Detachable.Project.Utility\bin\Release\net6.0\Detachable.Project.Utility.pdb
+D:\GitHub\Detachable.Project\Detachable.Project.Utility\obj\Release\net6.0\Detachable.Project.Utility.csproj.AssemblyReference.cache
+D:\GitHub\Detachable.Project\Detachable.Project.Utility\obj\Release\net6.0\Detachable.Project.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Detachable.Project\Detachable.Project.Utility\obj\Release\net6.0\Detachable.Project.Utility.AssemblyInfoInputs.cache
+D:\GitHub\Detachable.Project\Detachable.Project.Utility\obj\Release\net6.0\Detachable.Project.Utility.AssemblyInfo.cs
+D:\GitHub\Detachable.Project\Detachable.Project.Utility\obj\Release\net6.0\Detachable.Project.Utility.csproj.CoreCompileInputs.cache
+D:\GitHub\Detachable.Project\Detachable.Project.Utility\obj\Release\net6.0\Detachable.Project.Utility.dll
+D:\GitHub\Detachable.Project\Detachable.Project.Utility\obj\Release\net6.0\refint\Detachable.Project.Utility.dll
+D:\GitHub\Detachable.Project\Detachable.Project.Utility\obj\Release\net6.0\Detachable.Project.Utility.pdb
+D:\GitHub\Detachable.Project\Detachable.Project.Utility\obj\Release\net6.0\ref\Detachable.Project.Utility.dll

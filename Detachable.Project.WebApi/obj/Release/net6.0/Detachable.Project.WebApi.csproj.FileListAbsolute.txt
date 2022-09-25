@@ -1,0 +1,7 @@
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Release\net6.0\Detachable.Project.WebApi.csproj.AssemblyReference.cache
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Release\net6.0\Detachable.Project.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Release\net6.0\Detachable.Project.WebApi.AssemblyInfoInputs.cache
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Release\net6.0\Detachable.Project.WebApi.AssemblyInfo.cs
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Release\net6.0\Detachable.Project.WebApi.csproj.CoreCompileInputs.cache
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Release\net6.0\Detachable.Project.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\Detachable.Project\Detachable.Project.WebApi\obj\Release\net6.0\Detachable.Project.WebApi.MvcApplicationPartsAssemblyInfo.cache
