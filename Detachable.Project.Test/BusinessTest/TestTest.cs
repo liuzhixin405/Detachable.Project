@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using NUnit.Framework.Interfaces;
+using System.Diagnostics;
 
 namespace Detachable.Project.Test.ControllerTest
 {

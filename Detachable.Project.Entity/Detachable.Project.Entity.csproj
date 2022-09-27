@@ -10,7 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Detachable.Project.Core\Detachable.Project.Core.csproj" />
     <ProjectReference Include="..\Detachable.Project.MessageBus\Detachable.Project.MessageBus.csproj" />
+    <ProjectReference Include="..\Detachable.Project.Utility\Detachable.Project.Utility.csproj" />
   </ItemGroup>
 
 </Project>

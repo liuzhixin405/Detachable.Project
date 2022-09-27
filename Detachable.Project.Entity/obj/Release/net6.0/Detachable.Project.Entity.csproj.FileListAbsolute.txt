@@ -13,3 +13,7 @@ D:\GitHub\Detachable.Project\Detachable.Project.Entity\obj\Release\net6.0\Detach
 D:\GitHub\Detachable.Project\Detachable.Project.Entity\obj\Release\net6.0\refint\Detachable.Project.Entity.dll
 D:\GitHub\Detachable.Project\Detachable.Project.Entity\obj\Release\net6.0\Detachable.Project.Entity.pdb
 D:\GitHub\Detachable.Project\Detachable.Project.Entity\obj\Release\net6.0\ref\Detachable.Project.Entity.dll
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\bin\Release\net6.0\Detachable.Project.Core.dll
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\bin\Release\net6.0\Detachable.Project.Utility.dll
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\bin\Release\net6.0\Detachable.Project.Core.pdb
+D:\GitHub\Detachable.Project\Detachable.Project.Entity\bin\Release\net6.0\Detachable.Project.Utility.pdb

@@ -15,3 +15,11 @@ D:\GitHub\Detachable.Project\Detachable.Project.Business\obj\Release\net6.0\Deta
 D:\GitHub\Detachable.Project\Detachable.Project.Business\obj\Release\net6.0\refint\Detachable.Project.Business.dll
 D:\GitHub\Detachable.Project\Detachable.Project.Business\obj\Release\net6.0\Detachable.Project.Business.pdb
 D:\GitHub\Detachable.Project\Detachable.Project.Business\obj\Release\net6.0\ref\Detachable.Project.Business.dll
+D:\GitHub\Detachable.Project\Detachable.Project.Business\bin\Release\net6.0\Detachable.Project.DataBase.dll
+D:\GitHub\Detachable.Project\Detachable.Project.Business\bin\Release\net6.0\Detachable.Project.Entity.dll
+D:\GitHub\Detachable.Project\Detachable.Project.Business\bin\Release\net6.0\Detachable.Project.MessageBus.dll
+D:\GitHub\Detachable.Project\Detachable.Project.Business\bin\Release\net6.0\Detachable.Project.Utility.dll
+D:\GitHub\Detachable.Project\Detachable.Project.Business\bin\Release\net6.0\Detachable.Project.DataBase.pdb
+D:\GitHub\Detachable.Project\Detachable.Project.Business\bin\Release\net6.0\Detachable.Project.Entity.pdb
+D:\GitHub\Detachable.Project\Detachable.Project.Business\bin\Release\net6.0\Detachable.Project.MessageBus.pdb
+D:\GitHub\Detachable.Project\Detachable.Project.Business\bin\Release\net6.0\Detachable.Project.Utility.pdb

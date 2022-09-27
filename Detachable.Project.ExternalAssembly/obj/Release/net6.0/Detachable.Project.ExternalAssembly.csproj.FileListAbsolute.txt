@@ -1,0 +1,12 @@
+D:\GitHub\Detachable.Project\Detachable.Project.ExternalAssembly\bin\Release\net6.0\Detachable.Project.ExternalAssembly.deps.json
+D:\GitHub\Detachable.Project\Detachable.Project.ExternalAssembly\bin\Release\net6.0\Detachable.Project.ExternalAssembly.dll
+D:\GitHub\Detachable.Project\Detachable.Project.ExternalAssembly\bin\Release\net6.0\Detachable.Project.ExternalAssembly.pdb
+D:\GitHub\Detachable.Project\Detachable.Project.ExternalAssembly\obj\Release\net6.0\Detachable.Project.ExternalAssembly.csproj.AssemblyReference.cache
+D:\GitHub\Detachable.Project\Detachable.Project.ExternalAssembly\obj\Release\net6.0\Detachable.Project.ExternalAssembly.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Detachable.Project\Detachable.Project.ExternalAssembly\obj\Release\net6.0\Detachable.Project.ExternalAssembly.AssemblyInfoInputs.cache
+D:\GitHub\Detachable.Project\Detachable.Project.ExternalAssembly\obj\Release\net6.0\Detachable.Project.ExternalAssembly.AssemblyInfo.cs
+D:\GitHub\Detachable.Project\Detachable.Project.ExternalAssembly\obj\Release\net6.0\Detachable.Project.ExternalAssembly.csproj.CoreCompileInputs.cache
+D:\GitHub\Detachable.Project\Detachable.Project.ExternalAssembly\obj\Release\net6.0\Detachable.Project.ExternalAssembly.dll
+D:\GitHub\Detachable.Project\Detachable.Project.ExternalAssembly\obj\Release\net6.0\refint\Detachable.Project.ExternalAssembly.dll
+D:\GitHub\Detachable.Project\Detachable.Project.ExternalAssembly\obj\Release\net6.0\Detachable.Project.ExternalAssembly.pdb
+D:\GitHub\Detachable.Project\Detachable.Project.ExternalAssembly\obj\Release\net6.0\ref\Detachable.Project.ExternalAssembly.dll
